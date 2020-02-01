@@ -3,9 +3,10 @@
 
 ## Анимация
 [Spine - редактор для создания качественных 2D анимаций](http://ru.esotericsoftware.com)
+[DragonBone - аналог Spine](https://github.com/DragonBones/DragonBonesJS/tree/master/Phaser)
 
 [Phaser 3 awesome](https://github.com/Raiper34/awesome-phaser)
  
 ## Phaser 3 плагины
-* [аналог border-image](https://github.com/jdotrjs/phaser3-nineslice)
+* [аналог border-image](https://github.com/koreezgames/phaser3-ninepatch-plugin)
 * [phaser-matter-collision-plugin](https://github.com/mikewesthad/phaser-matter-collision-plugin)
