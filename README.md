@@ -10,3 +10,4 @@
 ## Phaser 3 плагины
 * [аналог border-image](https://github.com/koreezgames/phaser3-ninepatch-plugin)
 * [phaser-matter-collision-plugin](https://github.com/mikewesthad/phaser-matter-collision-plugin)
+* [dialogs-manager](https://github.com/phreaknation/plugin.dialogmanager)
