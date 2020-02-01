@@ -3,4 +3,5 @@
 
 ## Анимация
 [Spine - редактор для создания качественных 2D анимаций](http://ru.esotericsoftware.com)
-[Плагин Spine для Phaser 2](https://github.com/azerion/phaser-spine/tree/spine-ts)
+
+[Плагин для Phaser 2](https://github.com/azerion/phaser-spine/tree/spine-ts)
