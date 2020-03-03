@@ -1,6 +1,9 @@
 # gamedev-awesome
 Ссылки на различные интересные ресурсы и инструменты в сфере геймдева.
 
+## Генерация ресурсов
+* https://aiartists.org/ai-generated-art-tools
+
 ## Анимация
 * [Spine - редактор для создания качественных 2D анимаций](http://ru.esotericsoftware.com)
 * [DragonBone - аналог Spine](https://github.com/DragonBones/DragonBonesJS/tree/master/Phaser)
