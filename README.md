@@ -4,6 +4,9 @@
 ## Генерация ресурсов
 * https://aiartists.org/ai-generated-art-tools
 
+## Face
+* [3D Morphable Model (3DMM)](https://neurohive.io/en/state-of-the-art/learning-3d-face-morphable-model-out-of-2d-images/)
+
 ## 2D Анимация
 * [Сравнение Spine vs DragonBone vs Anima 2D](
 https://habr.com/ru/sandbox/124467/)
