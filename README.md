@@ -5,6 +5,8 @@
 * https://aiartists.org/ai-generated-art-tools
 
 ## Анимация
+* [Сравнение Spine vs DragonBone vs Anima 2D](
+https://habr.com/ru/sandbox/124467/)
 * [Spine - редактор для создания качественных 2D анимаций](http://ru.esotericsoftware.com)
 * [DragonBone - аналог Spine](https://dragonbones.github.io/en/index.html)
 * [DragonBone - PhaserPlugin](https://github.com/DragonBones/DragonBonesJS/tree/master/Phaser)
