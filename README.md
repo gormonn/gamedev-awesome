@@ -10,6 +10,7 @@ https://habr.com/ru/sandbox/124467/)
 * [Spine - редактор для создания качественных 2D анимаций](http://ru.esotericsoftware.com)
 * [DragonBone - аналог Spine](https://dragonbones.github.io/en/index.html)
 * [DragonBone - PhaserPlugin](https://github.com/DragonBones/DragonBonesJS/tree/master/Phaser)
+* [PoseNet (tensorflow.js)](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
 
 * [Phaser 3 awesome](https://github.com/Raiper34/awesome-phaser)
 ## Отладка
