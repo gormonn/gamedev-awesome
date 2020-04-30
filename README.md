@@ -16,8 +16,8 @@ https://habr.com/ru/sandbox/124467/)
 
 ## Нейросети
 * [PoseNet (tensorflow.js)](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
+* [Новости нейросетей в сфере 3D моделирования](https://neurohive.io/en/tag/3d-modeling/)
 
-* [Phaser 3 awesome](https://github.com/Raiper34/awesome-phaser)
 ## Отладка
 * [fps, mem, cpu usage](https://github.com/munrocket/gl-bench)
 
@@ -25,3 +25,5 @@ https://habr.com/ru/sandbox/124467/)
 * [аналог border-image](https://github.com/koreezgames/phaser3-ninepatch-plugin)
 * [phaser-matter-collision-plugin](https://github.com/mikewesthad/phaser-matter-collision-plugin)
 * [dialogs-manager](https://github.com/phreaknation/plugin.dialogmanager)
+
+* [Phaser 3 awesome](https://github.com/Raiper34/awesome-phaser)
