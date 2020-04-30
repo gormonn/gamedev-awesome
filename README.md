@@ -1,11 +1,13 @@
 # gamedev-awesome
-Ссылки на различные интересные ресурсы и инструменты в сфере геймдева.
+Ссылки на различные интересные ресурсы и инструменты в сфере геймдева и не только.
+
+## [Библиотека научных работ](https://arxiv.org/list/cs/recent)
 
 ## Генерация ресурсов
 * https://aiartists.org/ai-generated-art-tools
 
 ## Face
-* [Введение в 3DMM](https://arxiv.org/abs/1909.01815)|[3D Morphable Model (3DMM)](https://neurohive.io/en/state-of-the-art/learning-3d-face-morphable-model-out-of-2d-images/)|[A Morphable Model For The Synthesis Of 3D Faces](https://cseweb.ucsd.edu/~ravir/6998/papers/p187-blanz.pdf)
+* [Введение в 3DMM](https://arxiv.org/abs/1909.01815)|[3D Morphable Model (3DMM) (кейс показать с бородой без)](https://neurohive.io/en/state-of-the-art/learning-3d-face-morphable-model-out-of-2d-images/)|[A Morphable Model For The Synthesis Of 3D Faces](https://cseweb.ucsd.edu/~ravir/6998/papers/p187-blanz.pdf)
 * [Di4D - реалистичная лицевая анимация (производят устройства и по для захвата)](https://www.di4d.com/)
 * [3DMD](http://www.3dmd.com/static-3dmd_systems/)
 * [Fake?Neon Project - Samsung](https://hightech.fm/2020/01/16/samsung-neon)|[Neon Project - official site](https://www.neon.life/)
