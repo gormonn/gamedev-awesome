@@ -5,6 +5,7 @@
 * https://aiartists.org/ai-generated-art-tools
 
 ## Face
+* [Введение в 3DMM](https://arxiv.org/abs/1909.01815)
 * [3D Morphable Model (3DMM)](https://neurohive.io/en/state-of-the-art/learning-3d-face-morphable-model-out-of-2d-images/)
 * [A Morphable Model For The Synthesis Of 3D Faces](https://cseweb.ucsd.edu/~ravir/6998/papers/p187-blanz.pdf)
 * [Neon Project - Samsung](https://hightech.fm/2020/01/16/samsung-neon)
