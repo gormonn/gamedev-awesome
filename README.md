@@ -6,7 +6,8 @@
 
 ## Анимация
 * [Spine - редактор для создания качественных 2D анимаций](http://ru.esotericsoftware.com)
-* [DragonBone - аналог Spine](https://github.com/DragonBones/DragonBonesJS/tree/master/Phaser)
+* [DragonBone - аналог Spine](https://dragonbones.github.io/en/index.html)
+* [DragonBone - PhaserPlugin](https://github.com/DragonBones/DragonBonesJS/tree/master/Phaser)
 
 * [Phaser 3 awesome](https://github.com/Raiper34/awesome-phaser)
 ## Отладка
