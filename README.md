@@ -13,6 +13,9 @@
 * [3DMD](http://www.3dmd.com/static-3dmd_systems/)
 * [Fake?Neon Project - Samsung](https://hightech.fm/2020/01/16/samsung-neon) | [Neon Project - official site](https://www.neon.life/)
 
+## Clothes
+* [clo3d - профессиональная программа для разработки и визуализации одежды](https://www.clo3d.com/clollab/search?s_key=0)
+
 ### Recognition
 * [Анализ существующих подходов к распознаванию лиц(2014г)](https://habr.com/ru/company/synesis/blog/238129/)
 
