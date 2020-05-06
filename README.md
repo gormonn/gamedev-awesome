@@ -26,6 +26,10 @@ https://habr.com/ru/sandbox/124467/)
 * []()
 * []()
 
+## 3D анимация
+## Motion Capture
+* [XSens](https://www.xsens.com/motion-capture)
+
 ## Нейросети
 * [PoseNet (tensorflow.js)](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
 * [Новости нейросетей в сфере 3D моделирования](https://neurohive.io/en/tag/3d-modeling/)
