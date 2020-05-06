@@ -13,7 +13,7 @@
 * [Fake?Neon Project - Samsung](https://hightech.fm/2020/01/16/samsung-neon) | [Neon Project - official site](https://www.neon.life/)
 
 ## Body
-* [Video-based Reconstruction of 3D People Models](https://www.youtube.com/watch?v=Htry63oRIjQ) | [paper](https://arxiv.org/abs/1803.04758)
+* [Video-based Reconstruction of 3D People Models](https://www.youtube.com/watch?v=Htry63oRIjQ) | [paper](https://arxiv.org/abs/1803.04758) | [python-project](https://github.com/thmoa/videoavatars)
 
 ## Одежда
 * [clo3d - профессиональная программа для разработки и визуализации одежды](https://www.clo3d.com/clollab/search?s_key=0) | [clo-set](https://style.clo-set.com/aboutus)
