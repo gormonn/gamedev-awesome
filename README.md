@@ -13,6 +13,7 @@
 * [Fake?Neon Project - Samsung](https://hightech.fm/2020/01/16/samsung-neon) | [Neon Project - official site](https://www.neon.life/)
 
 ## Body
+* [Expressive body capture: 3D hands, face, and body from a single image](https://www.youtube.com/watch?v=XyXIEmapWkw)
 * [Video-based Reconstruction of 3D People Models](https://www.youtube.com/watch?v=Htry63oRIjQ) | [paper: Video Based Reconstruction of 3D People Models](https://arxiv.org/abs/1803.04758) | [python-project](https://github.com/thmoa/videoavatars)
 * [SMPL](https://smpl.is.tue.mpg.de/) | [SMPLify](http://smplify.is.tue.mpg.de/)
 * [DensePose](https://www.youtube.com/watch?v=HfaOPsV1MC8) | [paper](https://arxiv.org/abs/1802.00434)
