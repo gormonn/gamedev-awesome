@@ -24,6 +24,10 @@
 ### Recognition
 * [Анализ существующих подходов к распознаванию лиц(2014г)](https://habr.com/ru/company/synesis/blog/238129/)
 * [COCO Challenges](http://cocodataset.org/workshop/coco-mapillary-iccv-2019.html)
+* papers: [3D Human Body Reconstruction from a Single Image via Volumetric Regression](https://arxiv.org/abs/1809.03770)
+[DeepHuman: 3D Human Reconstruction from a Single Image](https://arxiv.org/abs/1903.06473)
+[История фотограмметрии](https://alicevision.org/#history)
+* [awesome_3DReconstruction_list](https://github.com/openMVG/awesome_3DReconstruction_list)
 
 ## 2D Анимация
 * [Сравнение Spine vs DragonBone vs Anima 2D](
@@ -60,3 +64,4 @@ https://habr.com/ru/sandbox/124467/)
 * [dialogs-manager](https://github.com/phreaknation/plugin.dialogmanager)
 
 * [Phaser 3 awesome](https://github.com/Raiper34/awesome-phaser)
+
