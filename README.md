@@ -7,11 +7,13 @@
 * https://aiartists.org/ai-generated-art-tools
 
 ## Face
-### 3D model
 * [Введение в 3DMM](https://arxiv.org/abs/1909.01815)|[3D Morphable Model (3DMM) (кейс показать с бородой без)](https://neurohive.io/en/state-of-the-art/learning-3d-face-morphable-model-out-of-2d-images/) | [A Morphable Model For The Synthesis Of 3D Faces](https://cseweb.ucsd.edu/~ravir/6998/papers/p187-blanz.pdf)
 * [Di4D - реалистичная лицевая анимация (производят устройства и ПО для захвата)](https://www.di4d.com/) | [DI4D SNAP](https://www.di4d.com/news/new-di4d-snap/)
 * [3DMD](http://www.3dmd.com/static-3dmd_systems/)
 * [Fake?Neon Project - Samsung](https://hightech.fm/2020/01/16/samsung-neon) | [Neon Project - official site](https://www.neon.life/)
+
+## Body
+* [Video-based Reconstruction of 3D People Models](https://www.youtube.com/watch?v=Htry63oRIjQ) | [paper](https://arxiv.org/abs/1803.04758)
 
 ## Одежда
 * [clo3d - профессиональная программа для разработки и визуализации одежды](https://www.clo3d.com/clollab/search?s_key=0) | [clo-set](https://style.clo-set.com/aboutus)
