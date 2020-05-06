@@ -33,6 +33,7 @@ https://habr.com/ru/sandbox/124467/)
 ## MOCAP
 * [VNect: real-time 3D human pose estimation with a single RGB camera (SIGGRAPH 2017 Presentation)](https://www.youtube.com/watch?v=m3KG_Z0P_nU)
 * [XSens](https://www.xsens.com/motion-capture)
+* [(VR) UltraLeap](https://www.ultraleap.com/tracking/)
 
 ## Нейросети
 * [PoseNet (tensorflow.js)](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
