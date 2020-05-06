@@ -21,6 +21,7 @@
 
 ### Recognition
 * [Анализ существующих подходов к распознаванию лиц(2014г)](https://habr.com/ru/company/synesis/blog/238129/)
+* [COCO Challenges](http://cocodataset.org/workshop/coco-mapillary-iccv-2019.html)
 
 ## 2D Анимация
 * [Сравнение Spine vs DragonBone vs Anima 2D](
