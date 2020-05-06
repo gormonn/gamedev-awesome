@@ -27,7 +27,8 @@ https://habr.com/ru/sandbox/124467/)
 * []()
 
 ## 3D анимация
-## Motion Capture
+## MOCAP
+* [VNect: real-time 3D human pose estimation with a single RGB camera (SIGGRAPH 2017 Presentation)](https://www.youtube.com/watch?v=m3KG_Z0P_nU)
 * [XSens](https://www.xsens.com/motion-capture)
 
 ## Нейросети
