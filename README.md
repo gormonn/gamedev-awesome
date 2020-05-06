@@ -15,6 +15,7 @@
 ## Body
 * [Video-based Reconstruction of 3D People Models](https://www.youtube.com/watch?v=Htry63oRIjQ) | [paper](https://arxiv.org/abs/1803.04758) | [python-project](https://github.com/thmoa/videoavatars)
 * [DensePose](https://www.youtube.com/watch?v=HfaOPsV1MC8) | [paper](https://arxiv.org/abs/1802.00434)
+* [Adobe Fuse](https://helpx.adobe.com/creative-cloud/how-to/create-3d-character-adobe-fuse.html)
 
 ## Одежда
 * [clo3d - профессиональная программа для разработки и визуализации одежды](https://www.clo3d.com/clollab/search?s_key=0) | [clo-set](https://style.clo-set.com/aboutus)
