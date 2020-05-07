@@ -3,7 +3,7 @@
 
 ## [Библиотека научных работ](https://arxiv.org/list/cs/recent)
 ## Обучение
-* [Подготовка к олимпиадам и ЕГЭ по математике и физике](https://mathus.ru/)
+* [Подготовка к олимпиадам и ЕГЭ по математике и физике](https://mathus.ru/math/index.php#mlad)
 
 ## Генерация ресурсов
 * https://aiartists.org/ai-generated-art-tools
