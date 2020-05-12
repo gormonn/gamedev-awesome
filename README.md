@@ -45,6 +45,9 @@ https://habr.com/ru/sandbox/124467/)
 * []()
 * []()
 
+## 3D моедлирование
+* [DAZ3D (Genesis)](https://www.daz3d.com/)
+
 ## 3D анимация
 ## MOCAP
 * [VNect: real-time 3D human pose estimation with a single RGB camera (SIGGRAPH 2017 Presentation)](https://www.youtube.com/watch?v=m3KG_Z0P_nU)
