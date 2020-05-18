@@ -1,6 +1,7 @@
 # gamedev-awesome
 Ссылки на различные интересные ресурсы и инструменты в сфере геймдева и не только.
 
+## [Алгоритмы - полезные ресурсы](https://github.com/tayllan/awesome-algorithms)
 ## [Библиотека научных работ](https://arxiv.org/list/cs/recent)
 ## [Проекты и ислледования](https://ps.is.tuebingen.mpg.de/research_projects/4d-shape)
 
