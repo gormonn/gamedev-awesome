@@ -1,9 +1,11 @@
 # gamedev-awesome
 Ссылки на различные интересные ресурсы и инструменты в сфере геймдева и не только.
 
-## [Алгоритмы - полезные ресурсы](https://github.com/tayllan/awesome-algorithms)
+## [Алгоритмы - полезные ресурсы](https://github.com/tayllan/awesome-algorithms) | [2](https://github.com/gaerae/awesome-algorithms-education)
 ## [Библиотека научных работ](https://arxiv.org/list/cs/recent)
 ## [Проекты и ислледования](https://ps.is.tuebingen.mpg.de/research_projects/4d-shape)
+
+* [Глоссарий Машиное Обучение](https://ml-cheatsheet.readthedocs.io/en/latest/)
 
 ## Обучение
 * [Подготовка к олимпиадам и ЕГЭ по математике и физике](https://mathus.ru/math/#base)
@@ -71,7 +73,6 @@ https://habr.com/ru/sandbox/124467/)
 
 ## ИИ
 * [Quaqe 3 bot](https://habr.com/ru/post/498698/#habracut)
-* [Глоссарий Машиное Обучение](https://ml-cheatsheet.readthedocs.io/en/latest/)
 
 ## Отладка
 * [fps, mem, cpu usage](https://github.com/munrocket/gl-bench)
