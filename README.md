@@ -70,6 +70,7 @@ https://habr.com/ru/sandbox/124467/)
 
 ## ИИ
 * [Quaqe 3 bot](https://habr.com/ru/post/498698/#habracut)
+* [Глоссарий Машиное Обучение](https://ml-cheatsheet.readthedocs.io/en/latest/)
 
 ## Отладка
 * [fps, mem, cpu usage](https://github.com/munrocket/gl-bench)
