@@ -30,6 +30,9 @@
 * [Kinematics](https://n-e-r-v-o-u-s.com/shop/line.php?code=15)
 * [Патент Амазон на 3Д примерочные](https://julinjames.blogspot.com/2018_01_10_archive.html)
 
+## Патенты
+* [Система и способ для трехмерной деформации и наслоения сетки одежды для визуализации посадки одежды](https://patents.google.com/patent/US9754410?oq=bodylabs)
+
 ### Recognition
 * [Анализ существующих подходов к распознаванию лиц(2014г)](https://habr.com/ru/company/synesis/blog/238129/)
 * [COCO Challenges](http://cocodataset.org/workshop/coco-mapillary-iccv-2019.html)
