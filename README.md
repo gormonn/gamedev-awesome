@@ -28,6 +28,7 @@
 ## Одежда
 * [clo3d - профессиональная программа для разработки и визуализации одежды](https://www.clo3d.com/clollab/search?s_key=0) | [clo-set](https://style.clo-set.com/aboutus)
 * [Kinematics](https://n-e-r-v-o-u-s.com/shop/line.php?code=15)
+* [Патент Амазон на 3Д примерочные](https://julinjames.blogspot.com/2018_01_10_archive.html)
 
 ### Recognition
 * [Анализ существующих подходов к распознаванию лиц(2014г)](https://habr.com/ru/company/synesis/blog/238129/)
