@@ -3,6 +3,7 @@
 ## Архитектура
 * [hexagonal-architecture](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749)
 * [Шаблон "Порты и адаптеры"](https://www.kennethlange.com/ports-and-adapters/)
+* [awesome-software-architecture](https://github.com/gormonn/awesome-software-architecture)
 
 ## [Алгоритмы - полезные ресурсы](https://github.com/tayllan/awesome-algorithms) | [2](https://github.com/gaerae/awesome-algorithms-education)
 ## [Библиотека научных работ](https://arxiv.org/list/cs/recent)
