@@ -5,7 +5,7 @@
 * [Шаблон "Порты и адаптеры"](https://www.kennethlange.com/ports-and-adapters/)
 * [awesome-software-architecture](https://github.com/gormonn/awesome-software-architecture)
 * [GraphQL - как способ применения шаблона "Порты и адаптеры"](https://khalilstemmler.com/articles/graphql/graphql-architectural-advantages/)
-* [DI -  Depence Injection](https://khalilstemmler.com/articles/tutorials/dependency-injection-inversion-explained/)
+* [DI - Инверсия зависимостей](https://khalilstemmler.com/articles/tutorials/dependency-injection-inversion-explained/)
 
 ## [Алгоритмы - полезные ресурсы](https://github.com/tayllan/awesome-algorithms) | [2](https://github.com/gaerae/awesome-algorithms-education)
 ## [Библиотека научных работ](https://arxiv.org/list/cs/recent)
