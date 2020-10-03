@@ -6,6 +6,7 @@
 * [awesome-software-architecture](https://github.com/gormonn/awesome-software-architecture)
 * [GraphQL - как способ применения шаблона "Порты и адаптеры"](https://khalilstemmler.com/articles/graphql/graphql-architectural-advantages/)
 * [DI - Инверсия зависимостей](https://khalilstemmler.com/articles/tutorials/dependency-injection-inversion-explained/)
+* [Рекомендации по использованию Классов ES6](https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4)
 
 ## [Алгоритмы - полезные ресурсы](https://github.com/tayllan/awesome-algorithms) | [2](https://github.com/gaerae/awesome-algorithms-education)
 ## [Библиотека научных работ](https://arxiv.org/list/cs/recent)
