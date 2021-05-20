@@ -75,6 +75,7 @@ https://habr.com/ru/sandbox/124467/)
 ## Нейросети
 * [PoseNet (tensorflow.js)](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
 * [Новости нейросетей в сфере 3D моделирования](https://neurohive.io/en/tag/3d-modeling/)
+* [Голос](https://cybervoice.io/)
 
 ## VR
 * [Новые аватары Facebook становятся ближе к виртуальной реальности в «Ready Player One»](https://www.pcmag.com/news/facebooks-new-avatars-get-closer-to-the-vr-in-ready-player-one)
